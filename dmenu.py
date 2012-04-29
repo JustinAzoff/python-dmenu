@@ -65,7 +65,7 @@ def dmenu(items,
     :param items: A list of strings to choose from.
     :param bottom: dmenu appears at the bottom of the screen.
     :param ignorecase: dmenu matches menu items case insensitively.
-    :param lines: 
+    :param lines: dmenu lists items vertically, with the given number of lines.
     :param monitor: dmenu appears on the given Xinerama screen.
     :param prompt: defines the prompt to be displayed to the left of the input field.
     :param font: defines the font or font set used.
